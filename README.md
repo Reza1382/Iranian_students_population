@@ -117,14 +117,6 @@ Contributions are welcome! Please feel free to:
 - Improve documentation
 - Add additional analysis
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Contact
-
-For questions or suggestions, please open an issue or contact [your-email@example.com]
-
 ---
 
 **Note**: This analysis is based on historical data and provides insights into past trends. For current statistics, please refer to the latest official sources from Iran's Ministry of Education.
